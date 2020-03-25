@@ -1,2 +1,3 @@
 # hello-world
-Multi view integration of EEG outputs to create a synchronized multi person brain wave
+Multi view integration is the game
+Now this is the master file
